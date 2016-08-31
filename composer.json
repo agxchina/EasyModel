@@ -1,0 +1,10 @@
+{
+    "name": "agxmaster/easy-model",
+    "description": "EasyModel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Agxmaster\\EasyModel\\": "src/"
+        }
+    }
+}
